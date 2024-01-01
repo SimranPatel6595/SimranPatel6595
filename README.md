@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🌟 Hey there!
 
 <!--
 **SimranPatel6595/SimranPatel6595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Simran Patel, a Master's student in Computer Science, navigating the exciting world of bits, bytes, and beautiful code.
+
+💻 Currently mastering: SQL,Python,ML, diving deep into the realms of Data Engineeting. 🚀
+
+📚 Studying at Stevens Institue of Technology, where every bug is a chance to learn something new. Passionate about turning caffeine into code and late-night debugging sessions.
+
+📬 Let's connect on https://www.linkedin.com/in/simranpatel6595/, share cool coding stories, or discuss the latest breakthroughs in CS. Excited to learn, grow, and conquer the coding universe! 🌌
+
+
