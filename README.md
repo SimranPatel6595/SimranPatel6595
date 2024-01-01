@@ -21,6 +21,6 @@ I'm Simran Patel, a Master's student in Computer Science, navigating the excitin
 
 📚 Studying at Stevens Institue of Technology, where every bug is a chance to learn something new. Passionate about turning caffeine into code and late-night debugging sessions.
 
-📬 Let's connect on [![LinkedIn](https://www.linkedin.com/in/simranpatel6595/)](https://www.linkedin.com/in/simranpatel6595/) https://www.linkedin.com/in/simranpatel6595/, share cool coding stories, or discuss the latest breakthroughs in CS. Excited to learn, grow, and conquer the coding universe! 🌌
+📬 Let's connect on [![LinkedIn](https://www.linkedin.com/in/simranpatel6595/)] https://www.linkedin.com/in/simranpatel6595/, share cool coding stories, or discuss the latest breakthroughs in CS. Excited to learn, grow, and conquer the coding universe! 🌌
 
 
