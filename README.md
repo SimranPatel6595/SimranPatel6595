@@ -24,5 +24,4 @@ I'm Simran Patel, a Master's student in Computer Science, navigating the excitin
 📬 Let's connect on ![LinkedIn](https://www.linkedin.com/in/simranpatel6595/) https://www.linkedin.com/in/simranpatel6595/, share cool coding stories, or discuss the latest breakthroughs in CS. Excited to learn, grow, and conquer the coding universe! 🌌
 
 
-[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][3]
-[3]: [https://www.linkedin.com/in/simranpatel6595/]
+[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][https://www.linkedin.com/in/simranpatel6595/]
