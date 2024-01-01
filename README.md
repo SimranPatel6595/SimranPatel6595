@@ -25,3 +25,4 @@ I'm Simran Patel, a Master's student in Computer Science, navigating the excitin
 
 
 
+[![LinkedIn](https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-1024.png)]
