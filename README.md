@@ -23,6 +23,3 @@ I'm Simran Patel, a Master's student in Computer Science, navigating the excitin
 
 📬 Let's connect on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/simranpatel6595/), share cool coding stories, or discuss the latest breakthroughs in CS. Excited to learn, grow, and conquer the coding universe! 🌌
 
-
-
-[![LinkedIn](https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-1024.png)]
