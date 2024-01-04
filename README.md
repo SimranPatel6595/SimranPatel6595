@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Simran Patel, a Master's student in Computer Science, navigating the exciting world of bits, bytes, and beautiful code.
+I'm Simran Patel, a passionate Master's student in Computer Science, navigating the thrilling realms of bits, bytes, and beautiful code.
 
-💻 Currently mastering: SQL,Python,ML, diving deep into the realms of Data Engineeting. 🚀
+💻 Currently honing my skills in SQL, Python, I'm diving deep into the fascinating world of Data Engineering. 🚀
 
-📚 Studying at Stevens Institue of Technology, where every bug is a chance to learn something new. Passionate about turning caffeine into code and late-night debugging sessions.
+📚 Studying at Stevens Institute of Technology, where every bug is seen as an opportunity to learn something new. I'm passionate about transforming caffeine into code and engaging in late-night debugging sessions.
+
 
 #### Connect on 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/simranpatel6595/)  
