@@ -31,11 +31,16 @@ I'm Simran Patel, a passionate Master's student in Computer Science, navigating 
 
 
 #### Connect on 
-![LinkedIn][https://github.com/SimranPatel6595/SimranPatel6595/blob/main/LinkedIn.png](https://www.linkedin.com/in/simranpatel6595/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/simranpatel6595/)  
 share cool coding stories, or discuss the latest breakthroughs in CS. Excited to learn, grow, and conquer the coding universe! 🌌
 <p align="center">
   <a href="https://www.linkedin.com/in/simranpatel6595/">
     <img src="https://github.com/SimranPatel6595/SimranPatel6595/blob/main/LinkedIn.png" alt="LinkedIn" width="40"/>
+  </a>
+   <a href="simranpatel6595@gmail.com">
+    <img src="https://github.com/SimranPatel6595/SimranPatel6595/blob/main/Gmail.png" alt="LinkedIn" width="40"/>
+  </a>
+     <a href="https://leetcode.com/SimranPatel6595/">
+    <img src="https://github.com/SimranPatel6595/SimranPatel6595/blob/main/LeetCode.png" alt="LinkedIn" width="40"/>
   </a>
 </p>
