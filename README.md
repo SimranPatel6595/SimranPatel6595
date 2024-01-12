@@ -23,15 +23,12 @@ I'm Simran Patel, a passionate Master's student in Computer Science, navigating 
 
 📚 Studying at Stevens Institute of Technology, where every bug is seen as an opportunity to learn something new. I'm passionate about transforming caffeine into code and engaging in late-night debugging sessions.
 
-Experienced software developer with expertise in SQL, C#, and SSRS, adept at designing and implementing robust database solutions and reporting systems.
+🌐 Experienced software developer with expertise in SQL, C#, and SSRS, adept at designing and implementing robust database solutions and reporting systems.
 
 
 <p align="Center">
   <img src="https://github.com/SimranPatel6595/SimranPatel6595/blob/main/coding.gif" alt="coding" width="400"/>
 </p>
-
-
-
 
 #### Let's Connect on 
 
