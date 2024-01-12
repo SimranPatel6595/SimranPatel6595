@@ -37,10 +37,10 @@ I'm Simran Patel, a passionate Master's student in Computer Science, navigating 
     <img src="https://github.com/SimranPatel6595/SimranPatel6595/blob/main/LinkedIn.png" alt="LinkedIn" width="70"/>
   </a> &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;
    <a href="simranpatel6595@gmail.com">
-    <img src="https://github.com/SimranPatel6595/SimranPatel6595/blob/main/Gmail.png" alt="LinkedIn" width="70"/>
+    <img src="https://github.com/SimranPatel6595/SimranPatel6595/blob/main/Gmail.png" alt="Gmail" width="70"/>
   </a> &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;
      <a href="https://leetcode.com/SimranPatel6595/">
-    <img src="https://github.com/SimranPatel6595/SimranPatel6595/blob/main/LeetCode.png" alt="LinkedIn" width="70"/>
+    <img src="https://github.com/SimranPatel6595/SimranPatel6595/blob/main/LeetCode.png" alt="Leetcode" width="70"/>
   </a>
 </p>
 
