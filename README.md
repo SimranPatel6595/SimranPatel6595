@@ -24,15 +24,16 @@ I'm Simran Patel, a passionate Master's student in Computer Science, navigating 
 📚 Studying at Stevens Institute of Technology, where every bug is seen as an opportunity to learn something new. I'm passionate about transforming caffeine into code and engaging in late-night debugging sessions.
 
 <p align="Center">
-  <img src="https://github.com/SimranPatel6595/SimranPatel6595/blob/main/LinkedIn.png" alt="LinkedIn" href="https://www.linkedin.com/in/simranpatel6595/" width="400"/>
+  <img src="https://github.com/SimranPatel6595/SimranPatel6595/blob/main/coding.gif" alt="coding" width="400"/>
 </p>
 
-<p align="Center">
-  <img src="https://github.com/SimranPatel6595/SimranPatel6595/blob/main/coding.gif" alt="coding" width="20"/>
-</p>
+
+
 
 #### Connect on 
-![LinkedIn][](https://www.linkedin.com/in/simranpatel6595/)
+![LinkedIn][https://github.com/SimranPatel6595/SimranPatel6595/blob/main/LinkedIn.png](https://www.linkedin.com/in/simranpatel6595/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/simranpatel6595/)  
 share cool coding stories, or discuss the latest breakthroughs in CS. Excited to learn, grow, and conquer the coding universe! 🌌
-
+<p align="Center">
+  <img src="https://github.com/SimranPatel6595/SimranPatel6595/blob/main/LinkedIn.png" alt="LinkedIn" href="https://www.linkedin.com/in/simranpatel6595/" width="40"/>
+</p>
