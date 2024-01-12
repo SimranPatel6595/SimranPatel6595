@@ -26,9 +26,6 @@ I'm Simran Patel, a passionate Master's student in Computer Science, navigating 
 <p align="Center">
   <img src="https://github.com/SimranPatel6595/SimranPatel6595/blob/main/coding.gif" alt="coding" width="400"/>
 </p>
-LinkedIn: :linkedIn: <!-- GitHub emoji shortcode -->
-Gmail: :email: <!-- GitHub emoji shortcode -->
-
 
 #### Connect on 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/simranpatel6595/)  
