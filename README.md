@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 I'm Simran Patel, a passionate Master's student in Computer Science, navigating the thrilling realms of bits, bytes, and beautiful code.
 
+<p align="center">
+  <img src="https://github.com/SimranPatel6595/SimranPatel6595/blob/main/coding.gif" alt="coding" width="300"/>
+</p>
+
 ![Coding](https://github.com/SimranPatel6595/SimranPatel6595/blob/main/coding.gif)
 
 💻 Currently honing my skills in SQL, Python, I'm diving deep into the fascinating world of Data Engineering. 🚀
