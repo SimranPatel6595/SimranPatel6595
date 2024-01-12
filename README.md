@@ -37,6 +37,7 @@ share cool coding stories, or discuss the latest breakthroughs in CS. Excited to
   <a href="https://www.linkedin.com/in/simranpatel6595/">
     <img src="https://github.com/SimranPatel6595/SimranPatel6595/blob/main/LinkedIn.png" alt="LinkedIn" width="40"/>
   </a>
+  <t></t>
    <a href="simranpatel6595@gmail.com">
     <img src="https://github.com/SimranPatel6595/SimranPatel6595/blob/main/Gmail.png" alt="LinkedIn" width="40"/>
   </a>
