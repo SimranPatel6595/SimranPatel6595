@@ -45,3 +45,22 @@ share cool coding stories, or discuss the latest breakthroughs in CS. Excited to
     <img src="https://github.com/SimranPatel6595/SimranPatel6595/blob/main/LeetCode.png" alt="LinkedIn" width="40"/>
   </a>
 </p>
+
+<style>
+  .icon-link {
+    margin-right: 20px; /* Adjust the margin as needed */
+  }
+</style>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/simranpatel6595/" class="icon-link">
+    <img src="https://github.com/SimranPatel6595/SimranPatel6595/blob/main/LinkedIn.png" alt="LinkedIn" width="40"/>
+  </a>
+  <a href="simranpatel6595@gmail.com" class="icon-link">
+    <img src="https://github.com/SimranPatel6595/SimranPatel6595/blob/main/Gmail.png" alt="Gmail" width="40"/>
+  </a>
+  <a href="https://leetcode.com/SimranPatel6595/" class="icon-link">
+    <img src="https://github.com/SimranPatel6595/SimranPatel6595/blob/main/LeetCode.png" alt="LeetCode" width="40"/>
+  </a>
+</p>
+
