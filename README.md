@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 I'm Simran Patel, a passionate Master's student in Computer Science, navigating the thrilling realms of bits, bytes, and beautiful code.
 
-<p align="left">
-  <img src="https://github.com/SimranPatel6595/SimranPatel6595/blob/main/coding.gif" alt="coding" width="500"/>
+<p align="Right">
+  <img src="https://github.com/SimranPatel6595/SimranPatel6595/blob/main/coding.gif" alt="coding" width="400"/>
 </p>
 
 
