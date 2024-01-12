@@ -27,8 +27,9 @@ I'm Simran Patel, a passionate Master's student in Computer Science, navigating 
   <img src="https://github.com/SimranPatel6595/SimranPatel6595/blob/main/coding.gif" alt="coding" width="400"/>
 </p>
 
-LinkedIn: &#x1F468;&#x200D;&#x1F4BB; <!-- Unicode for LinkedIn logo -->
-Gmail: &#x2709; <!-- Unicode for envelope -->
+LinkedIn: :linkedIn: <!-- GitHub emoji shortcode -->
+Gmail: :email: <!-- GitHub emoji shortcode -->
+
 
 
 #### Connect on 
