@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 # Technology Stack
 
 - 🐍 Python | 💾 SQL | 🐘 PostgreSQL
-- 🐼 Pandas | 🔢 NumPy | 📈 Tableau | 📊 Excel | 🌐 Git | 🐳 Docker | 📊 SSRS (SQL Server Reporting Services)
+- 🐼 Pandas | 🔢 NumPy | 📈 Tableau | 📊 Excel | 🌐 Git | 🐳 Docker | 📊 SSRS (SQL Server Reporting Services) | ☁️ Amazon Web Services (AWS)
 
 
 <p align="Center">
