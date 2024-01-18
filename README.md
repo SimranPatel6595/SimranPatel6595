@@ -21,9 +21,32 @@ Here are some ideas to get you started:
 - 📚 Studying at **Stevens Institute of Technology**, where every bug is seen as an opportunity to learn something new. I'm passionate about transforming caffeine into code and engaging in late-night debugging sessions.
 - 🌐 Experienced **software developer** with expertise in SQL, C#, and SSRS, adept at designing and implementing robust database solutions and reporting systems.
 
-# Section 1
+# Technology Stack
+
 - **Programming Language:**
-  - Python: &#x1F40D;
+  - Python: 🐍
+
+- **Databases:**
+  - SQL: 🗃️
+  - PostgreSQL: 🐘
+
+- **Data Analysis:**
+  - Pandas: 🐼
+  - NumPy: 🔢
+
+- **Data Visualization:**
+  - Tableau: 📊
+
+- **Business Intelligence and Reporting:**
+  - Microsoft Excel: 📊
+  - SSRS (SQL Server Reporting Services): 📊
+
+- **Version Control:**
+  - Git: 🔄
+
+- **Containerization:**
+  - Docker: 🐳
+
 
 <p align="Center">
   <img src="https://github.com/SimranPatel6595/SimranPatel6595/blob/main/coding.gif" alt="coding" width="400"/>
