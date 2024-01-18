@@ -23,29 +23,8 @@ Here are some ideas to get you started:
 
 # Technology Stack
 
-- **Programming Language:**
-  - Python: 🐍
-
-- **Databases:**
-  - SQL: 🗃️
-  - PostgreSQL: 🐘
-
-- **Data Analysis:**
-  - Pandas: 🐼
-  - NumPy: 🔢
-
-- **Data Visualization:**
-  - Tableau: 📊
-
-- **Business Intelligence and Reporting:**
-  - Microsoft Excel: 📊
-  - SSRS (SQL Server Reporting Services): 📊
-
-- **Version Control:**
-  - Git: 🔄
-
-- **Containerization:**
-  - Docker: 🐳
+- 🐍 Python | 💾 SQL | 🐘 PostgreSQL
+- 🐼 Pandas | 🔢 NumPy | 📈 Tableau | 📊 Excel | 🌐 Git | 🐳 Docker | SSRS (SQL Server Reporting Services): 📊
 
 
 <p align="Center">
